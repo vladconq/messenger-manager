@@ -6,3 +6,8 @@ This application is made as part of a test task:
 - loader animation is present
 - working with different cell heights
 - loading from the bottom up, as in popular chats (Telegram/WhatsApp etc)
+
+<p>
+  <img src="https://github.com/vladconq/messenger-manager/blob/master/message-manager-uikit/Pics/light.png" width="300">
+  <img src="https://github.com/vladconq/messenger-manager/blob/master/message-manager-uikit/Pics/dark.png" width="300">
+</p>
